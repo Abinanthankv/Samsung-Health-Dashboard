@@ -71,6 +71,17 @@ npm run dev
 ### 3. Upload & Explore
 Once the app is running, simply drag and drop your Samsung Health `.zip` export into the upload area. All calculations are performed entirely in your browser—your health data never leaves your device.
 
+## 🚀 Deployment
+
+The project is pre-configured for **GitHub Pages**. To deploy:
+
+1. Ensure your project is pushed to a GitHub repository.
+2. Run the deployment script:
+   ```bash
+   npm run deploy
+   ```
+3. In your GitHub repository settings, under **Pages**, ensure the **Source** is set to "Deploy from a branch" and select `gh-pages` as the branch.
+
 ## 🔒 Privacy
 
 This application is built with privacy in mind. **No data is uploaded to any server.** All parsing and processing happen locally in your browser leveraging the `JSZip` and custom TypeScript parsing engines.
