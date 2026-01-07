@@ -2,7 +2,8 @@
 
 A high-fidelity, interactive health analytics dashboard that transforms exported Samsung Health data into beautiful, actionable insights. Built with a focus on modern aesthetics, glassmorphism design, and engaging animations.
 
-![Project Preview](https://via.placeholder.com/800x450?text=Samsung+Health+Dashboard+Preview)
+<img width="1847" height="909" alt="image" src="https://github.com/user-attachments/assets/10e103e1-942e-47d1-ae5d-b023c21c1f1f" />
+
 
 ## ✨ Features
 
