@@ -3,6 +3,16 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "keywords": [
+    "samsung-health",
+    "health-dashboard",
+    "fitness-tracker",
+    "data-visualization",
+    "react",
+    "typescript",
+    "wrapped",
+    "analytics"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

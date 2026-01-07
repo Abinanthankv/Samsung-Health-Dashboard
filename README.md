@@ -1,5 +1,10 @@
 # 🏥 Samsung Health Dashboard
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 A high-fidelity, interactive health analytics dashboard that transforms exported Samsung Health data into beautiful, actionable insights. Built with a focus on modern aesthetics, glassmorphism design, and engaging animations.
 
 <img width="1847" height="909" alt="image" src="https://github.com/user-attachments/assets/10e103e1-942e-47d1-ae5d-b023c21c1f1f" />
